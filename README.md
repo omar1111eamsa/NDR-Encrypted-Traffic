@@ -41,7 +41,7 @@ NDR-Encrypted-Traffic/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/omar1111eamsa/NDR-Encrypted-Traffic.git
 cd NDR-Encrypted-Traffic
 
 # Create virtual environment
