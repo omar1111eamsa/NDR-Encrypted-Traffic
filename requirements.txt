@@ -1,3 +1,5 @@
 requests
 scapy
 pandas
+scikit-learn
+joblib
