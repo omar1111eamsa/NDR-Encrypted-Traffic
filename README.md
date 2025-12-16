@@ -126,11 +126,13 @@ The system extracts 13 statistical features from network flows:
 ## 🛠️ Technologies Used
 
 - **Python 3.12**
-- **Scapy** - Packet manipulation and capture
-- **Pandas** - Data processing
-- **Scikit-learn** - Machine learning
-- **Matplotlib** - Visualizations
-- **Joblib** - Model persistence
+- **Scapy 2.6.1** - Packet manipulation and capture
+- **Pandas 2.3.3** - Data processing
+- **NumPy 2.3.5** - Numerical computing
+- **Scikit-learn 1.8.0** - Machine learning
+- **Matplotlib 3.10.8** - Visualizations
+- **Joblib 1.5.3** - Model persistence
+- **Requests 2.32.5** - HTTP library for data acquisition
 
 ---
 
